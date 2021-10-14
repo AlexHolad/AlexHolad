@@ -11,7 +11,7 @@
 <code><img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/javascript.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/node-js.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/mysql.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/mongodb.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/800485d38f9a7b98bcc03fa7a2b7a8eb83a916b1/mongodb.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/github.svg" alt="git" width="40" height="40"/></code>
