@@ -1,6 +1,6 @@
 
 
-<a href="https://www.linkedin.com/in/alexejholad/"><h1>Hi there 👋, I'm Alex!</h1><img src='' alt='mylinkedin'></a>
+<a href="https://www.linkedin.com/in/alexejholad/"><img align='right' src='https://raw.githubusercontent.com/AlexHolad/AlexHolad/main/LinkedInLogo.png' alt='mylinkedin' width='100px'><h1>Hi there 👋, I'm Alex!</h1></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web++developer++++++++++)](https://git.io/typing-svg) 
 <code><img src="https://www.codewars.com/users/AlexHolad/badges/large" alt="bash" /></code>
