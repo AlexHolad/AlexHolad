@@ -1,12 +1,42 @@
-# 👋🧎 Hi there, I'm Alex  
 
-🌱 I’m currently learning to become a Full Stack Developer in @[Wild Code School](https://www.wildcodeschool.com/)
 
-## Connection
-[[!LinkedIn Badge](https://www.linkedin.com/in/alexejholad/)]
-## ⚡ Technologies 
-<a href="https://www.codewars.com/users/AlexHolad/" rel="nofollow"><img src="https://camo.githubusercontent.com/d2e17fa8ec90c9a940aaddcf40763ef7f38e9fbfd93a212d59abf1df0c361772/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f76747238342f6261646765732f6c61726765" alt="Codewars" data-canonical-src="https://www.codewars.com/users/vtr84/badges/large" style="max-width: 100%;"></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexHolad&show_icons=true&theme=github_dark)
-](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHolad&layout=compact&theme=github_dark)
+<a href="https://www.linkedin.com/in/alexejholad/" target="blank">
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Medium" height="30" width="40" /><h2>Hi there 👋, I'm Alex!</h2></a>
+
+
+🌱 I am currently learning to become a 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web++developer.++++++++++)](https://git.io/typing-svg)  
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=AlexHolad&column=9&theme=gruvbox&no-frame=true"/>
+
+<br>
+<br>
+
+## 🚀 Technologies
+
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
+<br>
+<br>
+
+## 👨🏼‍🔧 Statistic
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexHolad&show_icons=true&theme=github_dark)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHolad&layout=compact&theme=github_dark)
+
+<br>
+
+
+
+
+
+
+
+
+
 
