@@ -2,7 +2,7 @@
 
 <h1>Hi there 👋, I'm Alex!</h1>
 
-🌱 <h3>I am currently learning to become a</### > [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web++developer.++++++++++)](https://git.io/typing-svg) 
+🌱 <h3>I am currently learning to become a</h3> [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web++developer.++++++++++)](https://git.io/typing-svg) 
 
 <code><img src="https://www.codewars.com/users/AlexHolad/badges/large" alt="bash" /></code>
 
