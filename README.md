@@ -1,7 +1,7 @@
 
 
 <a href="https://www.linkedin.com/in/alexejholad/" target="blank">
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Medium" height="30" width="40" /><h2>Hi there 👋, I'm Alex!</h2></a>
+<img align="left" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Medium" height="30" width="40" /><h2>Hi there 👋, I'm Alex!</h2></a>
 
 
 🌱 I am currently learning to become a 
