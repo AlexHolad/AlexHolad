@@ -1,11 +1,9 @@
 
 
-<h1>Hi there 👋, I'm Alex!</h1>
+<a href="https://www.linkedin.com/in/alexejholad/"><h1>Hi there 👋, I'm Alex!</h1><img src='' alt='mylinkedin'></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web++developer++++++++++)](https://git.io/typing-svg) 
-
 <code><img src="https://www.codewars.com/users/AlexHolad/badges/large" alt="bash" /></code>
-
 ## 🚀 Technologies
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/javascript.svg" alt="bash" width="40" height="40"/></code>
