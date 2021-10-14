@@ -5,7 +5,10 @@
 
 
 🌱 I am currently learning to become a 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web++developer.++++++++++)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web++developer.++++++++++)](https://git.io/typing-svg) 
+
+<code><img src="https://www.codewars.com/users/AlexHolad/badges/large" alt="bash" /></code>
+
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=AlexHolad&column=9&theme=gruvbox&no-frame=true"/>
 
@@ -43,9 +46,3 @@ https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
 
 
 
-<a href="https://github.com/AlexHolad/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexHolad&repo=github-readme-stats&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/AlexHolad/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexHolad&repo=convoychat&show_icons=true&theme=github_dark" />
-</a>
