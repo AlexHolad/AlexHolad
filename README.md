@@ -18,9 +18,6 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 
-<br>
-<br>
-
 ## 👨🏼‍🔧 Statistic
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexHolad&show_icons=true&theme=github_dark)
