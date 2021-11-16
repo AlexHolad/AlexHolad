@@ -2,8 +2,7 @@
 
 <a href="https://www.linkedin.com/in/alexejholad/"><img align='right' src='https://raw.githubusercontent.com/AlexHolad/AlexHolad/main/LinkedInLogo.png' alt='mylinkedin' width='100px'><h1 align='center'>Hi there 👋, I'm Alex!</h1></a>
 
-<code><div align='center'><img src="https://www.codewars.com/users/AlexHolad/badges/large" alt="bash"/></div></code>
-<code>
+<div align='center'><img src="https://www.codewars.com/users/AlexHolad/badges/large" alt="bash"/></div>
   <div align='center'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/javascript.svg" alt="bash" width="40" height="40"/>
