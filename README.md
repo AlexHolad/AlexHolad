@@ -1,6 +1,7 @@
-<a href="https://www.linkedin.com/in/alexejholad/"><img align='right' src='https://raw.githubusercontent.com/AlexHolad/AlexHolad/main/LinkedInLogo.png' alt='mylinkedin' width='100px'><h1 align='center'>Hi there 👋, I'm Alex!</h1></a>
+<a href="https://www.linkedin.com/in/alexejholad/"><img align='right' src='https://raw.githubusercontent.com/AlexHolad/AlexHolad/main/LinkedInLogo.png' alt='mylinkedin' width='100px'>
+  <h1 align='center'>Hi there 👋, I'm Alex!</h1></a>
 
-<h3 align="center">A passionate Web Developer, jurist, and lifelong learner</h3>
+<h3 align="center">A passionate Web Developer and lifelong learner</h3>
 
 <div align='center'><img src="https://www.codewars.com/users/AlexHolad/badges/large" alt="bash"/></div>
   <div align='center'>
