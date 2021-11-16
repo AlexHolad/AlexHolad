@@ -8,11 +8,15 @@
 </p>
   
 <p align='center'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/javascript.svg" alt="javascript" width="40" height="40"/>
+  
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt='javascript'/>
+  <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" width="40" height="40" alt='react'/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40" alt='typescript'/>
+  <img src="https://img.icons8.com/color/48/000000/html.png" width="40" height="40" alt='html'/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" alt='css'/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt='sql'/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt='mongo'/>
   <img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/a678c0a0d6f772bc9c095065e783ea5a40de0779/node-js.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/mysql.svg" alt="msql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/800485d38f9a7b98bcc03fa7a2b7a8eb83a916b1/mongodb.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/github.svg" alt="git" width="40" height="40"/>
