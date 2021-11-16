@@ -2,10 +2,9 @@
 
 <a href="https://www.linkedin.com/in/alexejholad/"><img align='right' src='https://raw.githubusercontent.com/AlexHolad/AlexHolad/main/LinkedInLogo.png' alt='mylinkedin' width='100px'><h1 align='center'>Hi there 👋, I'm Alex!</h1></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web++developer++++++++++)](https://git.io/typing-svg)
 <code><div align='center'><img src="https://www.codewars.com/users/AlexHolad/badges/large" alt="bash"/></div></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/javascript.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/javascript.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/a678c0a0d6f772bc9c095065e783ea5a40de0779/node-js.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/mysql.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/800485d38f9a7b98bcc03fa7a2b7a8eb83a916b1/mongodb.svg" alt="bash" width="40" height="40"/></code>
