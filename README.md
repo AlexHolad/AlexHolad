@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Developer and lifelong learner</h3>
 
 <div align='center'><img src="https://www.codewars.com/users/AlexHolad/badges/large" alt="bash"/></div>
-  <div align='center'>
+  <p align='center'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/javascript.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/a678c0a0d6f772bc9c095065e783ea5a40de0779/node-js.svg" alt="nodejs" width="40" height="40"/>
@@ -15,7 +15,7 @@
     <img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/79b495721929b1f7f05bfeea15818939ea2b3ab6/github.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </div>
+  </p>
 
 ## 👨🏼‍🔧 Statistic
 
