@@ -21,7 +21,7 @@
 <p align="left">
  
 - 👨‍💻 Some of my projects:
-  - [Kleiderly calculator](https://github.com/Kleiderly/carbon-footprint-calculator-app-): Website built in two months by a team of 4, using agile methologies, as final project in a web developer bootcamp for a client located in Germany. It's built with React. The code was coded using NodeJS and Expressand, and MongoDB as a database. It was developed using the mobile first pattern. [Click here to see the project](https://frozen-dawn-41015.herokuapp.com/)
+  - [Kleiderly calculator](https://github.com/Kleiderly/carbon-footprint-calculator-app-): Website built in two months by a team of 4, using agile methologies, as final project in a web developer bootcamp for a client located in Germany. It's built with React. The code was coded using NodeJS, Express and MongoDB as a database. It was developed using the mobile first pattern. [Click here to see the project](https://frozen-dawn-41015.herokuapp.com/)
 
 - 🔧 After learning the fundaments of web development on my own, I attended a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp at [Wild Code School](https://www.wildcodeschool.com/), that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion.
 
