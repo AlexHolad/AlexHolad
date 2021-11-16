@@ -8,7 +8,6 @@
 <p align='center'>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt='javascript'/>
   <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" width="40" height="40" alt='react'/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40" alt='typescript'/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt='sql'/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt='mongo'/>
   <img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/a678c0a0d6f772bc9c095065e783ea5a40de0779/node-js.svg" alt="nodejs" width="40" height="40"/>
@@ -19,6 +18,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </p>
 
+<p align="left">
+ 
+- 👨‍💻 Some of my projects:
+  - [Kleiderly calculator](https://github.com/Kleiderly/carbon-footprint-calculator-app-): Website built in two months by a team of 4, using agile methologies, as final project in a web developer bootcamp for a client located in Germany. It's built with React. The code was coded using NodeJS and Expressand, and MongoDB as a database. It was developed using the mobile first pattern. [Click here to see the project](https://frozen-dawn-41015.herokuapp.com/)
+
+- 🔧 After learning the fundaments of web development on my own, I attended a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp at [Wild Code School](https://www.wildcodeschool.com/), that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion.
+
+- 📫 How to reach me **alexej.holad@gmail.com**
+
+- :gem: I'm also on [Linkedin](https://www.linkedin.com/in/alexejholad/)
 ## 👨🏼‍🔧 Statistic
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexHolad&show_icons=true&theme=github_dark)
