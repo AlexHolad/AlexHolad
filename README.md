@@ -12,8 +12,6 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt='javascript'/>
   <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" width="40" height="40" alt='react'/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40" alt='typescript'/>
-  <img src="https://img.icons8.com/color/48/000000/html.png" width="40" height="40" alt='html'/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" alt='css'/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt='sql'/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt='mongo'/>
   <img src="https://raw.githubusercontent.com/AlexHolad/AlexHolad/a678c0a0d6f772bc9c095065e783ea5a40de0779/node-js.svg" alt="nodejs" width="40" height="40"/>
