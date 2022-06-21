@@ -25,6 +25,7 @@
   - [Quote Generator](https://github.com/AlexHolad/quote-generator): Small responsive website, display work with API, async JS and media queries. [Click here to see the project](https://alexholad.github.io/quote-generator/)
   - [Animated Landing](https://github.com/AlexHolad/animated-landing): Small web-page based on Tailwind Starter Kit by Creative Tim. Only goal was demonstrate animation on elements with AOS - Animate On Scroll Library. [Click here to see the project](https://alexholad.github.io/animated-landing/)
   - [Light Dark Mode](https://github.com/AlexHolad/light-dark-mode): Desktop version with changable theme. [Click here to see the project](https://alexholad.github.io/light-dark-mode/)
+  - [Animated Navigation](https://github.com/AlexHolad/animated-navigation): Responsive Animated Navigation Menu. [Click here to see the project](https://alexholad.github.io/animated-navigation/)
 
 - 🔧 After learning the fundaments of web development on my own, I attended a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp at [Wild Code School](https://www.wildcodeschool.com/), that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion.
 
