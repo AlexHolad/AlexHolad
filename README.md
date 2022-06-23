@@ -27,6 +27,7 @@
   - [Light Dark Mode](https://github.com/AlexHolad/light-dark-mode): Desktop version with changable theme. [Click here to see the project](https://alexholad.github.io/light-dark-mode/)
   - [Animated Navigation](https://github.com/AlexHolad/animated-navigation): Responsive Animated Navigation Menu. [Click here to see the project](https://alexholad.github.io/animated-navigation/)
   - [Music Player](https://github.com/AlexHolad/music-player): Responsive Simple Music Player. [Click here to see the project](https://alexholad.github.io/music-player/)
+  - [Custom Countdown](https://github.com/AlexHolad/custom-countdown): Custom Countdown, simple inputs, responsive. [Click here to see the project](https://alexholad.github.io/custom-countdown/)
 
 - 🔧 After learning the fundaments of web development on my own, I attended a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp at [Wild Code School](https://www.wildcodeschool.com/), that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion.
 
