@@ -30,6 +30,7 @@
   - [Custom Countdown](https://github.com/AlexHolad/custom-countdown): Custom Countdown, simple inputs, responsive. [Click here to see the project](https://alexholad.github.io/custom-countdown/)
   - [Bookmarks Keeper](https://github.com/AlexHolad/bookmark-keeper): Project allows you to store bookmarks, uses local storage. [Click here to see the project](https://alexholad.github.io/bookmark-keeper/)
   - [Video Player](https://github.com/AlexHolad/video-player): Video player with ability of seekeng, changing speed of playing and fullscreen mode. [Click here to see the project](https://alexholad.github.io/video-player/)
+  - [Form Validation](https://github.com/AlexHolad/form-validation): Form Validation with HTML5, RegEx. [Click here to see the project](https://alexholad.github.io/form-validation/)
 
 - 🔧 After learning the fundaments of web development on my own, I attended a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp at [Wild Code School](https://www.wildcodeschool.com/), that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion.
 
